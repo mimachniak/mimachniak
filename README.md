@@ -2,7 +2,7 @@
 
 I'm a Cloud engineer passionate about building scalable, cloud-native solutions with a strong focus on **Azure**, **DevOps**, and **automation**.
 
-I've been passionate about information technology for over 20 years — it's both my **hobby** and my **profession**. These days, I work as an **MCT**, **SysOps**, **Cloud Architect**, and **DevOps engineer**, collaborating with customers from various sectors including **FinTech**, **e-commerce**, **banking**, **logistics**, and more.
+I've been passionate about information technology for over 20 years — it's both my **hobby** and my **profession**. These days, I work as an **Microsoft MVP** / **MCT**, **SysOps**, **Cloud Architect**, and **DevOps engineer**, collaborating with customers from various sectors including **FinTech**, **e-commerce**, **banking**, **logistics**, and more.
 
 I build and implement solutions based on Microsoft technologies using tools such as:
 
